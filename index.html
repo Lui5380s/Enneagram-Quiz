@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enneagram Quiz</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/src/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Enneagram Quiz</h1>
+            <p id="intro-text"><i>Beantworte jede Frage, um deinen Enneagramm-Typ herauszufinden.</i></p>
+            <button id="start-btn">Start</button>
+        </header>
+
+        <div id="quiz-container" class="hidden">
+            <div id="question"></div>
+            <div id="answers"></div>
+        </div>
+
+        <div id="result" class="hidden">
+            <h2>Your Enneagram Type is:</h2>
+            <p id="type"></p>
+            <button id="learn-more-btn">Mehr Erfahren</button>
+            <div id="type-details" class="hidden"></div>
+            <button id="end-btn" class="hidden">Beenden</button>
+        </div>
+    </div>
+
+    <script src="/src/script.js"></script>
+</body>
+</html>
