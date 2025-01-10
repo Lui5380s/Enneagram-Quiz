@@ -44,7 +44,7 @@
         answers: ["Sehr stark", "Eher stark", "Neutral", "Eher wenig", "Gar nicht"]
     },
     {
-        text: "Wie oft fühlst du dich dazu veranlasst, mögliche Probleme vorauszusehen und Pläne dagegen zu machen?",
+        text: "Wie oft fühlst du dich dazu veranlasst, mögliche Probleme vorauszusehen und Pläne dafür zu machen?",
         answers: ["Sehr oft", "Oft", "Manchmal", "Selten", "Nie"]
     },
     {
