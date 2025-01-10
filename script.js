@@ -12,7 +12,7 @@
         answers: ["Sehr stark", "Eher stark", "Neutral", "Eher schwach", "Gar nicht"]
     },
     {
-        text: "Wie sehr fühlst du dich zu einzigartigen, kreativen oder symbolischen Ausdrucksformen hingezogen?",
+        text: "Wie sehr interessierst du dich für kreative, einzigartige oder symbolische Dinge?",
         answers: ["Sehr stark", "Eher stark", "Neutral", "Eher schwach", "Gar nicht"]
     },
     {
@@ -36,7 +36,7 @@
         answers: ["Sehr stark", "Eher stark", "Neutral", "Eher wenig", "Überhaupt nicht"]
     },
     {
-        text: "Wie oft findest du dich dabei, dich mit den Gefühlen anderer stark zu verbinden, selbst wenn du deine eigenen Emotionen ignorierst?",
+        text: "Wie oft kümmerst du dich mehr um die Gefühle anderer, anstatt auf deine eigenen zu achten?",
         answers: ["Sehr oft", "Oft", "Manchmal", "Selten", "Nie"]
     },
     {
@@ -52,8 +52,8 @@
         answers: ["Sehr oft", "Oft", "Manchmal", "Selten", "Nie"]
     },
     {
-        text: "Wie stark bevorzugst du, dich aus sozialen oder emotional anspruchsvollen Situationen zurückzuziehen, um über Dinge nachzudenken?",
-        answers: ["Sehr stark", "Eher stark", "Neutral", "Eher wenig", "Gar nicht"]
+        text: "Wie oft ziehst du dich aus sozialen oder emotional schwierigen Situationen zurück, um nachzudenken?",
+        answers: ["Sehr oft", "Oft", "Manchmal", "Selten", "Nie"]
     },
     {
         text: "Wie oft fühlst du dich verpflichtet, Schwächere zu schützen oder Ungerechtigkeit zu bekämpfen?",
