@@ -63,15 +63,15 @@
 
 
 const enneagramTypes = {
-    1: { name: "Diligence/Perfektionist", details: "Perfektionistisch, diszipliniert, und mit hohen internen Standards für sich und andere. Sucht ständige Verbesserung und Gerechtigkeit, kann jedoch kritisch wirken. Neigt zu Resignation, wenn Dinge nicht richtig gemacht werden." },
-    2: { name: "Giving/Helfer", details: "Einfühlsam und aufmerksam für die Bedürfnisse anderer. Strebt nach harmonischen Beziehungen, kann jedoch übermäßig aufopfernd sein und sich unverstanden fühlen, wenn die Hilfe nicht gewürdigt wird." },
-    3: { name: "Perform/Erfolgreiche", details: "Erfolg und Leistung sind wichtig. Sehr zielstrebig, wettbewerbsorientiert und arbeitet hart, um Anerkennung zu erlangen. Kann emotionale Bedürfnisse und Selbstreflexion zugunsten der Zielverwirklichung zurückstellen." },
-    4: { name: "Mood/Individualist", details: "Kreativ, sensibel und emotional intensiv. Sucht tiefgehende Verbindungen und ein einzigartiges Leben, fühlt sich oft missverstanden und sehnsüchtig nach etwas Besonderem." },
-    5: { name: "Knowledge/Denker", details: "Analytisch, introspektiv und unabhängig. Zieht es vor, Dinge zu beobachten, statt im Mittelpunkt zu stehen, und strebt nach Selbstgenügsamkeit. Vermeidet emotionale Überforderung und fokussiert sich auf kognitive Prozesse." },
-    6: { name: "Doubt/Loyalist", details: "Verantwortungsbewusst und sicherheitsorientiert. Neigt dazu, Gefahr zu antizipieren und sucht nach Sicherheit, oft durch Loyalität und kritisches Hinterfragen von Autoritäten. Ist von Natur aus vorsichtig und sorgt sich um mögliche Bedrohungen." },
-    7: { name: "Options/Enthusiast", details: "Optimistisch und abenteuerlustig. Sucht ständig nach neuen Erfahrungen und Ideen. Vermeidet Langeweile und unangenehme Aufgaben, kann sich jedoch durch zu viele Optionen und Verpflichtungen überwältigt fühlen." },
-    8: { name: "Challenge/Herausforderer", details: "Stark, direkt und entschlossen. Hat einen natürlichen Drang, die Kontrolle zu übernehmen, besonders in unsicheren oder ungerechten Situationen. Schätzt Stärke und Unabhängigkeit und zeigt oft eine dominante Außenwirkung." },
-    9: { name: "Harmony/Friedensstifer", details: "Harmonie und Konfliktvermeidung sind zentrale Themen. Sehr anpassungsfähig und ausgleichend, kann jedoch Schwierigkeiten haben, Entscheidungen zu treffen und sich durchzusetzen, wenn es zu Konflikten kommt." }
+    1: { name: "Diligence / Perfektionist", details: "Perfektionistisch, diszipliniert, und mit hohen internen Standards für sich und andere. Sucht ständige Verbesserung und Gerechtigkeit, kann jedoch kritisch wirken. Neigt zu Resignation, wenn Dinge nicht richtig gemacht werden." },
+    2: { name: "Giving / Helfer", details: "Einfühlsam und aufmerksam für die Bedürfnisse anderer. Strebt nach harmonischen Beziehungen, kann jedoch übermäßig aufopfernd sein und sich unverstanden fühlen, wenn die Hilfe nicht gewürdigt wird." },
+    3: { name: "Perform / Erfolgreiche", details: "Erfolg und Leistung sind wichtig. Sehr zielstrebig, wettbewerbsorientiert und arbeitet hart, um Anerkennung zu erlangen. Kann emotionale Bedürfnisse und Selbstreflexion zugunsten der Zielverwirklichung zurückstellen." },
+    4: { name: "Mood / Individualist", details: "Kreativ, sensibel und emotional intensiv. Sucht tiefgehende Verbindungen und ein einzigartiges Leben, fühlt sich oft missverstanden und sehnsüchtig nach etwas Besonderem." },
+    5: { name: "Knowledge / Denker", details: "Analytisch, introspektiv und unabhängig. Zieht es vor, Dinge zu beobachten, statt im Mittelpunkt zu stehen, und strebt nach Selbstgenügsamkeit. Vermeidet emotionale Überforderung und fokussiert sich auf kognitive Prozesse." },
+    6: { name: "Doubt / Loyalist", details: "Verantwortungsbewusst und sicherheitsorientiert. Neigt dazu, Gefahr zu antizipieren und sucht nach Sicherheit, oft durch Loyalität und kritisches Hinterfragen von Autoritäten. Ist von Natur aus vorsichtig und sorgt sich um mögliche Bedrohungen." },
+    7: { name: "Options / Enthusiast", details: "Optimistisch und abenteuerlustig. Sucht ständig nach neuen Erfahrungen und Ideen. Vermeidet Langeweile und unangenehme Aufgaben, kann sich jedoch durch zu viele Optionen und Verpflichtungen überwältigt fühlen." },
+    8: { name: "Challenge / Herausforderer", details: "Stark, direkt und entschlossen. Hat einen natürlichen Drang, die Kontrolle zu übernehmen, besonders in unsicheren oder ungerechten Situationen. Schätzt Stärke und Unabhängigkeit und zeigt oft eine dominante Außenwirkung." },
+    9: { name: "Harmony / Friedensstifer", details: "Harmonie und Konfliktvermeidung sind zentrale Themen. Sehr anpassungsfähig und ausgleichend, kann jedoch Schwierigkeiten haben, Entscheidungen zu treffen und sich durchzusetzen, wenn es zu Konflikten kommt." }
 };
 
 const scores = Array(9).fill(0);
