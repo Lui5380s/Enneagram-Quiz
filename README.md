@@ -1,6 +1,6 @@
 # Enneagram Quiz
 
-Ein interaktives Quiz, das dir hilft, deinen Enneagramm-Typ herauszufinden. Das Enneagramm ist ein Modell der Persönlichkeit, das neun verschiedene Typen beschreibt, die jeweils eine grundlegende Denkweise, Motivation und Verhaltensmuster repräsentieren. 
+Ein interaktives Quiz, das dir hilft, deinen Enneagramm-Typ herauszufinden. Das Enneagramm ist ein Modell der Persönlichkeit, das neun verschiedene Typen beschreibt, die jeweils eine grundlegende Denkweise, Motivation und Verhaltensmuster repräsentieren.
 
 ## Was ist das Enneagramm?
 
@@ -21,5 +21,6 @@ Das Enneagramm ist ein psychologisches Modell, das neun verschiedene Persönlich
 ## Installation
 
 1. Klone dieses Repository oder lade die Dateien herunter:
+
    ```bash
    git clone https://github.com/dein-benutzername/Enneagram-Quiz.git
