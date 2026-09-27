@@ -23,4 +23,7 @@ Das Enneagramm ist ein psychologisches Modell, das neun verschiedene Persönlich
 1. Klone dieses Repository oder lade die Dateien herunter:
 
    ```bash
-   git clone https://github.com/dein-benutzername/Enneagram-Quiz.git
+   git clone https://github.com/Lui5380s/Enneagram-Quiz.git
+   ```
+
+2. Öffne die Datei `index.html` in deinem Browser – es ist keine weitere Installation nötig.
